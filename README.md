@@ -2,7 +2,7 @@
 
 [![Buy Me a Coffee](http://static.tonybogdanov.com/github/coffee.svg)](http://ko-fi.co/1236KUKJNC96B)
 
-[Demo & Documentation](http://tonybogdanov.github.io/poly-cover-image/components/poly-cover-image/)
+[Demo & Documentation](http://tonybogdanov.github.io/poly-cover-image/bower_components/poly-cover-image/)
 
 `<poly-cover-image>` provides a [Polymer](https://polymer-project.org) compatible way of displaying images with `background-size:cover`. Images also appear with an opacity fade effect once fully loaded.
 
