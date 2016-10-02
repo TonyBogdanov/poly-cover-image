@@ -1,0 +1,34 @@
+{
+  "name": "poly-cover-image",
+  "homepage": "https://github.com/TonyBogdanov/poly-cover-image",
+  "authors": [
+    "Tony Bogdanov <tonybogdanov@gmail.com>"
+  ],
+  "description": "A Polymer element for `background-size:cover` imagery",
+  "main": "tb-poly-cover-image.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.6.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "^1.1.7",
+    "bottle": "*"
+  },
+  "_release": "75d747340d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "75d747340d221c0ba9c6fb33f54e4e6d7ed03bff"
+  },
+  "_source": "https://github.com/TonyBogdanov/poly-cover-image.git",
+  "_target": "*",
+  "_originalSource": "poly-cover-image",
+  "_direct": true
+}
