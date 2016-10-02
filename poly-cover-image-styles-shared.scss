@@ -21,6 +21,8 @@
     opacity: 0;
 
     @include transition(opacity $veryFast $swift);
+
+    @apply(--poly-cover-image-image);
   }
 
   &[loaded] #cover {
