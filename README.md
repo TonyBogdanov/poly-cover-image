@@ -1,5 +1,7 @@
 # poly-cover-image
 
+Deprecated in favor of [poly-quick-image](https://github.com/TonyBogdanov/poly-quick-image).
+
 [![Buy Me a Coffee](http://static.tonybogdanov.com/github/coffee.svg)](http://ko-fi.co/1236KUKJNC96B)
 
 [Demo & Documentation](http://tonybogdanov.github.io/poly-cover-image/bower_components/poly-cover-image/)
